@@ -205,7 +205,6 @@ honda,hondas
 honda,accords
 honda,odessey
 honda,crosstour
-hyndai kia,hyundaikia
 hyundai,centennial
 hyundai,grandeur
 hyundai,veloster
@@ -263,8 +262,6 @@ kia,koup
 kia,k900
 kia,kias
 kia,optima
-"kia,",optima
-kia.,optima
 lincoln,navigator
 lincoln,town car
 lincoln,zephyr
@@ -310,8 +307,7 @@ mercedes,c-class
 mercedes,e-class
 mercedes,s-class
 mercedes,mercedesbenz
-mercedes benz,mercedes
-mercedes-benz,mercedes
+mercedes,mercedes benz
 mercury,milan
 mercury,mercury
 mitsubishi,galant
@@ -333,8 +329,7 @@ nissan,leaf
 nissan,370z
 nissan,altimas
 nissan,nissans
-nissan.,quest.
-nissan.,"quest,"
+nissan,quest
 pontiac,streamliner
 pontiac,grand prix
 pontiac,grand am
@@ -406,7 +401,8 @@ suzuki,x-90
 suzuki,xl7
 suzuki,sx4
 suzuki,apv
-toyata,camrybest
+toyota,toyata
+toyota,camrybest
 toyota,corolla/sprinter
 toyota,urban cruiser
 toyota,land cruiser
@@ -519,7 +515,7 @@ volkswagen,volkwagen
 volkswagen,vw
 volkswagen,vws
 volkswagen,passats
-volkwagen,passat
+volkswagen,passat
 volvo,xc60
 volvo,xc70
 volvo,xc90
