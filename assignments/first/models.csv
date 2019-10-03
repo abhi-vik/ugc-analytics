@@ -50,7 +50,6 @@ buick,buicks
 cadillac,escalade
 cadillac,srx
 cadillac,xts
-car,cars
 chevrolet,grand blazer
 chevrolet,trailblazer
 chevrolet,trailblazer
@@ -347,10 +346,7 @@ pontiac,g4
 pontiac,g5
 pontiac,g6
 pontiac,g8
-problem,problems
 saturn,aura
-seat,seats
-sedan,sedans
 subaru,outback sport
 subaru,grand wagon
 subaru,impreza xv
@@ -525,3 +521,7 @@ volvo,v60
 volvo,c70
 reliable,reliability
 speed,speeds
+car,cars
+seat,seats
+sedan,sedans
+problem,problems
